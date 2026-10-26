@@ -11,8 +11,8 @@ import subprocess
 # -- Project information -----------------------------------------------------
 
 project = 'BaseGraph'
-copyright = '2022, Simon Lizotte'
-author = 'Simon Lizotte'
+copyright = '2022, Ariane Lizotte'
+author = 'Ariane Lizotte'
 
 # -- RtD setup ---------------------------------------------------------------
 
